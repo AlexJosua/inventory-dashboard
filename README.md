@@ -16,5 +16,7 @@ Project ini adalah aplikasi dashboard sederhana untuk menampilkan data penjualan
 
 ## 🚀 Cara Menjalankan Aplikasi
 
+-git clone https://github.com/AlexJosua/inventory-dashboard.git
+-cd inventory-dashbboard
 -npm install
 -npm run dev
